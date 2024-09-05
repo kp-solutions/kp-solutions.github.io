@@ -1,4 +1,4 @@
-# Grupo Forte Gás, Liquigás Porto Alegre - Política de Privacidade
+# Grupo Forte Gás - Política de Privacidade
 
 Nós, do Grupo Forte Gás, estamos comprometidos em proteger sua privacidade. Esta política de privacidade descreve como coletamos, usamos e protegemos suas informações quando você utiliza nosso aplicativo.
 
