@@ -1,12 +1,12 @@
 # Grupo Forte Gás - Política de Privacidade
 
-Nós, do Grupo Forte Gás, estamos comprometidos em proteger sua privacidade. Esta política de privacidade descreve como coletamos, usamos e protegemos suas informações quando você utiliza nosso aplicativo.
+Nós, do Grupo Forte Gás, estamos comprometidos em proteger sua privacidade. Esta política de privacidade descreve como coletamos, usamos, compartilhamos e protegemos suas informações quando você utiliza nosso aplicativo.
 
 ## Informações que Coletamos
 
 Ao utilizar nosso aplicativo, podemos coletar as seguintes informações:
 
-- **Dados Pessoais**: Nome, endereço de entrega, telefone, e outras informações necessárias para a entrega de produtos e comunicação.
+- **Dados Pessoais**: Nome, endereço de entrega, telefone e outras informações necessárias para a entrega de produtos e comunicação.
 - **Dados de Localização**: Informações de localização geográfica, se aplicável, para melhorar a entrega de serviços.
 - **Dados de Navegação**: Informações sobre como você usa o aplicativo, incluindo interações, preferências e dados técnicos, como o tipo de dispositivo e o sistema operacional.
 
@@ -14,40 +14,42 @@ Ao utilizar nosso aplicativo, podemos coletar as seguintes informações:
 
 As informações que coletamos são utilizadas para:
 
-- Entregar produtos e serviços solicitados.
-- Enviar notificações e atualizações relacionadas ao uso do aplicativo.
-- Melhorar e personalizar a experiência do usuário no aplicativo.
-- Cumprir com obrigações legais ou regulatórias.
+- **Entrega de Produtos e Serviços**: Processar pedidos e realizar entregas de produtos solicitados.
+- **Notificações**: Enviar notificações e atualizações relacionadas ao uso do aplicativo, como atualizações de pedidos.
+- **Melhoria do Serviço**: Personalizar e melhorar sua experiência no aplicativo, identificando preferências e otimizando o desempenho.
+- **Cumprimento Legal**: Cumprir com obrigações legais ou regulatórias, como auditorias e cumprimento de legislação.
 
 ## Compartilhamento de Informações
 
 Não compartilhamos suas informações com terceiros, exceto nas seguintes circunstâncias:
 
-- **Fornecedores de Serviços**: Podemos compartilhar informações com parceiros que auxiliam na entrega de produtos ou na operação do aplicativo (ex: serviços de entrega, provedores de notificações).
-- **Exigência Legal**: Quando necessário, podemos divulgar suas informações para cumprir com leis, regulamentos, processos legais ou solicitações governamentais.
+- **Fornecedores de Serviços**: Compartilhamos informações com parceiros que auxiliam na operação do aplicativo e na entrega de produtos (ex: serviços de entrega, provedores de notificações).
+- **Exigência Legal**: Podemos divulgar informações para cumprir com leis, regulamentos ou solicitações legais de autoridades competentes.
 
 ## Segurança das Informações
 
-Valorizamos a segurança de suas informações e adotamos medidas técnicas e organizacionais para protegê-las contra acesso não autorizado, uso indevido ou alteração. Isso inclui o uso de criptografia, controles de acesso rigorosos e armazenamentos seguros.
+Adotamos medidas técnicas e organizacionais para proteger suas informações contra acesso não autorizado, uso indevido ou alteração. Isso inclui o uso de criptografia, controles de acesso rigorosos e armazenamentos seguros.
 
 ## Retenção e Exclusão de Dados
 
-Mantemos seus dados pessoais pelo tempo necessário para cumprir os propósitos descritos nesta política, a menos que um período de retenção mais longo seja exigido ou permitido por lei. Após esse período, os dados são excluídos de forma segura.
+Mantemos seus dados pessoais apenas pelo tempo necessário para os fins descritos nesta política ou conforme exigido por lei. Após esse período, seus dados são excluídos de maneira segura e irreversível.
 
 ## Seus Direitos de Privacidade
 
 Você tem o direito de:
 
-- Acessar, corrigir ou excluir suas informações pessoais.
-- Solicitar a limitação do processamento de seus dados ou se opor ao tratamento de seus dados.
-- Solicitar a portabilidade de seus dados para outro serviço, quando aplicável.
+- **Acesso e Correção**: Acessar suas informações pessoais e solicitar correções, caso necessário.
+- **Exclusão de Dados**: Solicitar a exclusão dos seus dados pessoais.
+- **Restrição ou Oposição**: Solicitar a limitação do processamento ou se opor ao tratamento de seus dados.
+- **Portabilidade de Dados**: Solicitar a transferência de seus dados pessoais para outro serviço, quando tecnicamente viável.
 
-Para exercer qualquer um desses direitos, entre em contato conosco pelo e-mail: **[regis@fortegas.com.br](mailto:regis@fortegas.com.br)**.
+Para exercer esses direitos, entre em contato conosco pelo e-mail: **[regis@fortegas.com.br](mailto:regis@fortegas.com.br)**.
 
 ## Alterações nesta Política de Privacidade
 
-Esta política de privacidade pode ser atualizada ocasionalmente. Recomendamos que você a reveja periodicamente para estar ciente de quaisquer alterações. Notificaremos você sobre mudanças significativas através do aplicativo ou por outros meios de comunicação.
+Podemos atualizar esta política de privacidade periodicamente. Recomendamos que você a reveja regularmente. Quaisquer mudanças significativas serão notificadas através do aplicativo ou outros meios de comunicação.
 
 ## Contato
 
-Se você tiver alguma dúvida ou preocupação sobre nossa política de privacidade, entre em contato conosco através do e-mail **[regis@fortegas.com.br](mailto:regis@fortegas.com.br)** ou pelos meios fornecidos no aplicativo.
+Se você tiver dúvidas ou preocupações sobre nossa política de privacidade, entre em contato conosco pelo e-mail: **[regis@fortegas.com.br](mailto:regis@fortegas.com.br)** ou pelos meios fornecidos no aplicativo.
+
