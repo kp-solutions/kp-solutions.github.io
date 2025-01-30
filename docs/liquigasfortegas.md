@@ -1,10 +1,10 @@
-# App Liquigás | Forte Gás - Política de Privacidade
+# App Liquigás Forte Gás - Política de Privacidade
 
-Esta política de privacidade descreve como o App Liquigás | Forte Gás coleta, usa, compartilha e protege suas informações quando você utiliza nosso aplicativo disponível na Google Play Store.
+Esta política de privacidade descreve como o App Liquigás Forte Gás coleta, usa, compartilha e protege suas informações quando você utiliza nosso aplicativo disponível na Google Play Store.
 
 ## Informações que Coletamos
 
-Ao utilizar o App Liquigás | Forte Gás, coletamos as seguintes informações:
+Ao utilizar o App Liquigás Forte Gás, coletamos as seguintes informações:
 
 - **Dados Pessoais**: Nome, endereço de entrega, telefone e e-mail necessários para processar pedidos e realizar entregas.
 - **Dados de Localização**: Utilizamos sua localização para otimizar entregas e mostrar revendedores próximos. Esta permissão pode ser gerenciada nas configurações do seu dispositivo Android.
@@ -24,7 +24,7 @@ Utilizamos suas informações para:
 
 ## Permissões do Aplicativo
 
-O App Liquigás | Forte Gás solicita as seguintes permissões:
+O App Liquigás Forte Gás solicita as seguintes permissões:
 
 - **Localização**: Para encontrar seu endereço de entrega
 - **Armazenamento**: Para salvar dados temporários e melhorar o desempenho
@@ -70,7 +70,7 @@ Mantemos seus dados apenas pelo tempo necessário para:
 
 ## Crianças
 
-O App Liquigás | Forte Gás não é destinado a menores de 18 anos e não coletamos intencionalmente informações de crianças.
+O App Liquigás Forte Gás não é destinado a menores de 18 anos e não coletamos intencionalmente informações de crianças.
 
 ## Atualizações da Política
 
