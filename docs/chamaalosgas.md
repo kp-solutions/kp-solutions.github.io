@@ -1,7 +1,7 @@
 
-# App Alós Gás - Política de Privacidade
+# App Chama Alós Gás - Política de Privacidade
 
-Esta política de privacidade descreve como o App **Alós Gás** coleta, usa, compartilha e protege suas informações quando você utiliza nosso aplicativo disponível na Google Play Store.
+Esta política de privacidade descreve como o App **Chama Alós Gás** coleta, usa, compartilha e protege suas informações quando você utiliza nosso aplicativo disponível na Google Play Store.
 
 ## Informações que Coletamos
 
@@ -25,7 +25,7 @@ Utilizamos suas informações para:
 
 ## Permissões do Aplicativo
 
-O App Alós Gás solicita as seguintes permissões:
+O App Chama Alós Gás solicita as seguintes permissões:
 
 * **Localização**: Para encontrar seu endereço de entrega
 * **Armazenamento**: Para salvar dados temporários e melhorar o desempenho
